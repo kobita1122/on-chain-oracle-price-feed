@@ -1,0 +1,8 @@
+{
+  "name": "on-chain-oracle-feed",
+  "version": "1.0.0",
+  "description": "Chainlink Price Feed integration for EVM smart contracts",
+  "dependencies": {
+    "@chainlink/contracts": "^1.1.0"
+  }
+}
